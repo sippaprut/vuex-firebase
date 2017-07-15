@@ -1,4 +1,4 @@
-# example-vuex-stock
+# Shopping Cart Vuex + firebase
 
 > A Vue.js project
 
