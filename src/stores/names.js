@@ -1,0 +1,11 @@
+export const GET_PRODUCTS = 'product/get_items'
+export const LOAD_PRODUCT = 'product/load_product'
+export const CHAGE_PRODUCT = 'product/change_product'
+
+export const ADD_CART = 'cart/add_cart'
+export const GET_CART = 'cart/get_item'
+export const GET_CART_SUMMARY = 'cart/get_summary'
+export const REMOVE_CART = 'cart/remove_item'
+export const UPDATE_QUAN = 'cart/update_quan'
+export const SAVE_ORDER = 'cart/save'
+export const CLEAR_CART = 'cart/clear'
